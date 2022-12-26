@@ -6,10 +6,10 @@ www.eon.ro###druidContainerElement
 ||azureedge.net^$important,domain=eon.ro
 
 ! https://www.digi.ro
-www.digi.ro##.gdpr
-www.digi.ro##.widget-message-content
+! www.digi.ro##.gdpr
+! www.digi.ro##.widget-message-content
 
 ! https://myelectrica.ro
-myelectrica.ro##.modal-dialog
-myelectrica.ro##.in.fade.modal
-myelectrica.ro##.in.fade.modal-backdrop
+! myelectrica.ro##.modal-dialog
+! myelectrica.ro##.in.fade.modal
+! myelectrica.ro##.in.fade.modal-backdrop
