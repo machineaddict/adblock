@@ -1,7 +1,22 @@
 ! ########################
 ! List: cookie-consent.txt
 ! ########################
-||usercentrics.eu^$third-party
+||usercentrics.eu^$third-party,important
+||cookiebot.com^$third-party,important
+||consensu.org^$third-party,important
+||cookielaw.org^$third-party,important
+||truste.com^$third-party,important
+||trustarc.com^$third-party,important
+||cookiepro.blob.core.windows.net^$third-party,important
+||cookiepro.com^$third-party,important
+||iubenda.com^$third-party,important
+||onetrust.com^$third-party,important
+||cookieinformation.com^$third-party,important
+||privacymanager.io^$third-party,important
+||transcend.io^$third-party,important
+||pushinstruments.com^$third-party,important
+||civiccomputing.com^$third-party,important
+||osano.com^$third-party,important
 
 ! ########################
 ! List: utilities.txt
