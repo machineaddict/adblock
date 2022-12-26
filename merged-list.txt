@@ -26,5 +26,8 @@ www.eon.ro###druidContainerElement
 ! ########################
 ! List: third-party.txt
 ! ########################
-||facebook.net^$third-party
+||facebook.net^$third-party,important
+||googletagmanager.com^$third-party,important
+||google-analytics.com^$third-party,important
+||hotjar.com^$third-party,important
 
