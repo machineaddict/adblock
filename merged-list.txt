@@ -16,6 +16,7 @@ www.eon.ro###druidContainerElement
 ! https://www.digi.ro
 ! www.digi.ro##.gdpr
 ! www.digi.ro##.widget-message-content
+||*^$third-party,important,domain=digi.ro
 
 ! https://myelectrica.ro
 ||*^$third-party,important,domain=myelectrica.ro
