@@ -22,6 +22,7 @@ www.eon.ro###druidContainerElement
 ! myelectrica.ro##.in.fade.modal
 ! myelectrica.ro##.in.fade.modal-backdrop
 ||fonts.googleapis.com^$important,domain=myelectrica.ro
+||youtube.com^$important,domain=myelectrica.ro
 
 ! ########################
 ! List: third-party.txt
