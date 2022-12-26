@@ -13,3 +13,4 @@ www.eon.ro###druidContainerElement
 ! myelectrica.ro##.modal-dialog
 ! myelectrica.ro##.in.fade.modal
 ! myelectrica.ro##.in.fade.modal-backdrop
+||fonts.googleapis.com^$important,domain=myelectrica.ro
