@@ -8,7 +8,7 @@ www.eon.ro###druidContainerElement
 ! https://www.digi.ro
 www.digi.ro##.active.gdpr
 www.digi.ro###newsletter
-||^$third-party,domain=digi.ro
+||^$third-party,domain=www.digi.ro
 
 ! https://myelectrica.ro
 ||^$third-party,domain=myelectrica.ro
