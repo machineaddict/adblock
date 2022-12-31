@@ -26,12 +26,13 @@ www.eon.ro##.banner-promo-content
 www.eon.ro##.footer
 www.eon.ro##.eon-ro-servExpressAlertCard
 www.eon.ro###druidContainerElement
-||^$third-party,domain=eon.ro
+||^$third-party,domain=www.eon.ro
+@@||web-ui.eon.com^$domain=www.eon.ro
 
 ! https://www.digi.ro
 www.digi.ro##.active.gdpr
 www.digi.ro###newsletter
-||^$third-party,domain=digi.ro
+||^$third-party,domain=www.digi.ro
 
 ! https://myelectrica.ro
 ||^$third-party,domain=myelectrica.ro
