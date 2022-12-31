@@ -3,7 +3,8 @@ www.eon.ro##.banner-promo-content
 www.eon.ro##.footer
 www.eon.ro##.eon-ro-servExpressAlertCard
 www.eon.ro###druidContainerElement
-||^$third-party,domain=eon.ro
+||^$third-party,domain=www.eon.ro
+@@||web-ui.eon.com^$domain=www.eon.ro
 
 ! https://www.digi.ro
 www.digi.ro##.active.gdpr
