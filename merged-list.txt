@@ -45,3 +45,12 @@ www.digi.ro###newsletter
 ||google-analytics.com^$third-party,important
 ||hotjar.com^$third-party,important
 
+! ########################
+! List: marketplace.txt
+! ########################
+! https://www.olx.ro/
+||www.olx.ro/api/*/page-views/^$domain=www.olx.ro
+||gstatic.com^$third-party,important,domain=www.olx.ro
+||google.com^$third-party,important,domain=www.olx.ro
+||jobs-api.olx.ro^$domain=www.olx.ro
+
