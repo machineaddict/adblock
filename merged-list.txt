@@ -38,6 +38,12 @@ www.digi.ro###newsletter
 ||^$third-party,important,domain=myelectrica.ro
 
 ! ########################
+! List: useless-stuff.txt
+! ########################
+# Github ping
+||alive.github.com^$important
+
+! ########################
 ! List: third-party.txt
 ! ########################
 ||facebook.net^$third-party,important
