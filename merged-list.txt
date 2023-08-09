@@ -38,7 +38,7 @@
 ! ########################
 ! List: useless-stuff.txt
 ! ########################
-# Github ping
+! Github ping
 ||alive.github.com^$important
 
 ! ########################

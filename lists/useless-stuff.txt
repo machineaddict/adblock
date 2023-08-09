@@ -1,2 +1,2 @@
-# Github ping
-||alive.github.com^$important 
+! Github ping
+||alive.github.com^$important
