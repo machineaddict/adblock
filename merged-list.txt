@@ -19,6 +19,29 @@
 ||osano.com^$third-party,important
 
 ! ########################
+! List: marketplace.txt
+! ########################
+! https://www.olx.ro/
+||www.olx.ro/api/*/page-views/^$domain=www.olx.ro
+||gstatic.com^$third-party,important,domain=www.olx.ro
+||google.com^$third-party,important,domain=www.olx.ro
+||jobs-api.olx.ro^$domain=www.olx.ro
+
+! ########################
+! List: third-party.txt
+! ########################
+||facebook.net^$third-party,important
+||googletagmanager.com^$third-party,important
+||google-analytics.com^$third-party,important
+||hotjar.com^$third-party,important
+
+! ########################
+! List: useless-stuff.txt
+! ########################
+# Github ping
+||alive.github.com^$important
+
+! ########################
 ! List: utilities.txt
 ! ########################
 ! https://www.eon.ro
@@ -36,27 +59,7 @@ www.digi.ro###newsletter
 
 ! https://myelectrica.ro
 ||^$third-party,important,domain=myelectrica.ro
-
-! ########################
-! List: useless-stuff.txt
-! ########################
-# Github ping
-||alive.github.com^$important
-
-! ########################
-! List: third-party.txt
-! ########################
-||facebook.net^$third-party,important
-||googletagmanager.com^$third-party,important
-||google-analytics.com^$third-party,important
-||hotjar.com^$third-party,important
-
-! ########################
-! List: marketplace.txt
-! ########################
-! https://www.olx.ro/
-||www.olx.ro/api/*/page-views/^$domain=www.olx.ro
-||gstatic.com^$third-party,important,domain=www.olx.ro
-||google.com^$third-party,important,domain=www.olx.ro
-||jobs-api.olx.ro^$domain=www.olx.ro
+myelectrica.ro###dashbannModal:has-text(/Câştigă/)
+myelectrica.ro##.modal-backdrop
+myelectrica.ro##body:style(overflow: auto !important)
 

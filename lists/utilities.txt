@@ -13,3 +13,6 @@ www.digi.ro###newsletter
 
 ! https://myelectrica.ro
 ||^$third-party,important,domain=myelectrica.ro
+myelectrica.ro###dashbannModal:has-text(/Câştigă/)
+myelectrica.ro##.modal-backdrop
+myelectrica.ro##body:style(overflow: auto !important)
